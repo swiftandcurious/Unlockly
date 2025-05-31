@@ -100,7 +100,7 @@ This makes the app feel modern, responsive, and easier to reason about.
 ## Resources
 
 - [Apple Developer Documentation – LocalAuthentication](https://developer.apple.com/documentation/localauthentication)
-- [Swift Concurrency Guide](https://developer.apple.com/documentation/swift/swift_concurrency)
+- [Swift Concurrency Guide](https://developer.apple.com/documentation/swift/concurrency/)
 - [WWDC: Meet async/await in Swift](https://developer.apple.com/videos/play/wwdc2021/10132/)
 
 ## License
